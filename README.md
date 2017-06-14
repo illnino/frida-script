@@ -1,2 +1,2 @@
 # frida-script
-Usefull frida scripts
+Useful frida scripts
